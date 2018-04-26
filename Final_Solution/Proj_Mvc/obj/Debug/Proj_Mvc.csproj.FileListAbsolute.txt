@@ -90,7 +90,6 @@ C:\Users\Ntikka-2784\source\repos\Final_Solution\Proj_Mvc\bin\Microsoft.AI.Depen
 C:\Users\Ntikka-2784\source\repos\Final_Solution\Proj_Mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Ntikka-2784\source\repos\Final_Solution\Proj_Mvc\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Ntikka-2784\source\repos\Final_Solution\Proj_Mvc\bin\Microsoft.AI.Web.xml
-C:\Users\Ntikka-2784\source\repos\Final_Solution\Proj_Mvc\obj\Debug\Proj_Mvc.csprojResolveAssemblyReference.cache
 C:\Users\Ntikka-2784\source\repos\Final_Solution\Proj_Mvc\obj\Debug\Proj_Mvc.csproj.CoreCompileInputs.cache
 C:\Users\Ntikka-2784\source\repos\Final_Solution\Proj_Mvc\obj\Debug\Proj_Mvc.csproj.CopyComplete
 C:\Users\Ntikka-2784\source\repos\Final_Solution\Proj_Mvc\obj\Debug\Proj_Mvc.dll
